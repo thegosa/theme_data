@@ -1,5 +1,290 @@
 [
         {
+            "name": "Undas Light",
+            "description": "http://zhuti.xiaomi.com/detail/0606dbd2-21a5-4428-95dc-135f1efff642",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140158201.jpg"
+        },
+        {
+            "name": "Âm lịch",
+            "description": "http://zhuti.xiaomi.com/detail/81beb8ff-bf2d-48f4-a13a-fb98f5cd6a91",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140217786.jpg"
+        },
+        {
+            "name": "CONQUER v11",
+            "description": "http://zhuti.xiaomi.com/detail/ad753480-73d2-4fa3-b12e-521e9bd9511c",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140235764.jpg"
+        },
+        {
+            "name": "Maximus",
+            "description": "http://zhuti.xiaomi.com/detail/6bfae588-035f-4a58-8480-672df1be08eb",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140350760.jpg"
+        },
+        {
+            "name": "Lavender v11",
+            "description": "http://zhuti.xiaomi.com/detail/8606c5c0-c9c5-406a-8163-349aa2091eb3",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140408367.jpg"
+        },
+        {
+            "name": "Worthy Foe",
+            "description": "http://zhuti.xiaomi.com/detail/25c6bf6c-6942-4cf5-a297-6dea3454c34f",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140423469.jpg"
+        },
+        {
+            "name": "ROUND_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/f0d3c108-db1d-4513-b6be-c38dbff70c33",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140453441.jpg"
+        },
+        {
+            "name": "Eclipse_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/9ba42d61-477a-4a58-aa3b-8788b104a615",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140509100.jpg"
+        },
+        {
+            "name": "Fields",
+            "description": "http://zhuti.xiaomi.com/detail/a1d19b68-31af-4af4-9c98-d9e2549e21be",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140526341.jpg"
+        },
+        {
+            "name": "Black N White_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/517e66c8-2c46-4a7e-8fbb-cd355b36b14a",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140539851.jpg"
+        },
+        {
+            "name": "Home 2",
+            "description": "http://zhuti.xiaomi.com/detail/bc39005d-6df0-4fb0-bc25-349c3e9177ae",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140555616.jpg"
+        },
+        {
+            "name": "Rog Phone v11",
+            "description": "http://zhuti.xiaomi.com/detail/41d024a6-923d-4068-8b86-6948aac300ac",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140628977.jpg"
+        },
+        {
+            "name": "ClassicalUi",
+            "description": "http://zhuti.xiaomi.com/detail/fb1c2174-3bff-4cd3-840e-6b692b87ffa0",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140648551.jpg"
+        },
+        {
+            "name": "SILHOUETTE_STIW_REGULAR",
+            "description": "http://zhuti.xiaomi.com/detail/903b97e1-994a-47d9-a476-52951a658608",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140750411.jpg"
+        },
+        {
+            "name": "MACLAREN_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/33fd5127-18c0-475f-8ba4-2277bc93f895",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140900032.jpg"
+        },
+        {
+            "name": "Lightness TT",
+            "description": "http://zhuti.xiaomi.com/detail/e0a84049-d440-4c06-b2c1-c194799c4fb3",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140920313.jpg"
+        },
+        {
+            "name": "focu smudge 10",
+            "description": "http://zhuti.xiaomi.com/detail/7c6bf512-624a-4e03-a1f4-febfcea49660",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140936602.jpg"
+        },
+        {
+            "name": "Returning v11",
+            "description": "http://zhuti.xiaomi.com/detail/ad9f0cee-76f2-4db4-8635-25aef247335b",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140959833.jpg"
+        },
+        {
+            "name": "New ENIX",
+            "description": "http://zhuti.xiaomi.com/detail/6faa17f5-3c5c-4cad-8e0e-a8eb227f89bc",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141019489.jpg"
+        },
+        {
+            "name": "Heart_MiTurns5",
+            "description": "http://zhuti.xiaomi.com/detail/5f26d03d-bb2d-4d5d-b2b2-0109d6c5ea17",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141037106.jpg"
+        },
+        {
+            "name": "JDI Light",
+            "description": "http://zhuti.xiaomi.com/detail/c3859961-5c8a-43be-b234-93d80c9200c0",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141124263.jpg"
+        },
+        {
+            "name": "One Dual v11",
+            "description": "http://zhuti.xiaomi.com/detail/8de04813-ed63-4990-bd63-7fa11a5697ad",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141140449.jpg"
+        },
+        {
+            "name": "Samsung Old Ui_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/ea0e400e-bdfe-4851-abde-7ffd2df8981a",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141200390.jpg"
+        },
+        {
+            "name": "One Ui Final v11",
+            "description": "http://zhuti.xiaomi.com/detail/d48b61a7-cb7e-45d0-85a7-f298579fa0a6",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141225071.jpg"
+        },
+        {
+            "name": "Dark Red",
+            "description": "http://zhuti.xiaomi.com/detail/d18b7fe5-f73f-437d-8144-c66f26bd60d2",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141244350.jpg"
+        },
+        {
+            "name": "iOS 13 Max",
+            "description": "http://zhuti.xiaomi.com/detail/069b57f4-7c33-454c-8f17-f6e43a353f37",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141300451.jpg"
+        },
+        {
+            "name": "Pixel Dark_STEWE_PREMIUM",
+            "description": "http://zhuti.xiaomi.com/detail/6048c698-0987-4e7b-8e35-aac00982b69f",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141325651.jpg"
+        },
+        {
+            "name": "Earth",
+            "description": "http://zhuti.xiaomi.com/detail/9492b1ba-6faf-4407-a548-31c4548cb91d",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141343523.jpg"
+        },
+        {
+            "name": "NANO NY",
+            "description": "http://zhuti.xiaomi.com/detail/0f50e759-e303-4e97-946f-272429ae07b2",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141403068.jpg"
+        },
+        {
+            "name": "Black Shark 2 v11",
+            "description": "http://zhuti.xiaomi.com/detail/2de53688-f052-4408-8a18-dd396f51e70e",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141437302.jpg"
+        },
+        {
+            "name": "Green Powerful",
+            "description": "http://zhuti.xiaomi.com/detail/7321402a-6551-401c-9bb6-a0a838d061b3",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141452270.jpg"
+        },
+        {
+            "name": "Universal V11",
+            "description": "http://zhuti.xiaomi.com/detail/cd21ce05-aedf-40af-9690-c833bf7834de",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141508407.jpg"
+        },
+        {
+            "name": "Core Wave_STIW_PREMIUM",
+            "description": "http://zhuti.xiaomi.com/detail/8e893f4c-0a7d-4b4f-8326-cd4c9d26f0a9",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141546130.jpg"
+        },
+        {
+            "name": "Business Cool",
+            "description": "http://zhuti.xiaomi.com/detail/13c2530f-f4f8-4d24-aa78-ca2fe144cbab",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141629064.jpg"
+        },
+        {
+            "name": "All i want",
+            "description": "http://zhuti.xiaomi.com/detail/e07d0775-1d36-43ee-973d-bbaadd1ceff8",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141653037.jpg"
+        },
+        {
+            "name": "LUCKY NY",
+            "description": "http://zhuti.xiaomi.com/detail/61701f26-fb84-4207-a144-47efb86e7d56",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142536541.jpg"
+        },
+        {
+            "name": "Circle ios_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/b5a215e9-a808-4fb9-ba13-abebc1378c01",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142614452.jpg"
+        },
+        {
+            "name": "Bluedot NY",
+            "description": "http://zhuti.xiaomi.com/detail/f53da708-34a9-4d75-a1ab-c561cc6b4c0c",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142638432.jpg"
+        },
+        {
+            "name": "Star Mountain",
+            "description": "http://zhuti.xiaomi.com/detail/c95baa5f-2325-424f-badc-2b4f4d6af7cd",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142658462.jpg"
+        },
+        {
+            "name": "ColorFul ios_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/f62534f0-26cb-4f86-a9a9-f57ef6393b66",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142718882.jpg"
+        },
+        {
+            "name": "RING_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/7c78468a-aa5e-4b73-b019-921cd7edc327",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152040139.jpg"
+        },
+        {
+            "name": "ELEGANT_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/160db4b1-dcab-43a0-a01f-6116138380e7",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152101410.jpg"
+        },
+        {
+            "name": "Xperia v10",
+            "description": "http://zhuti.xiaomi.com/detail/bf4042cd-08d0-4b39-b858-b0a9adfe3575",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152127119.jpg"
+        },
+        {
+            "name": "Color OS7_DWM4",
+            "description": "http://zhuti.xiaomi.com/detail/6417b263-84d1-4104-b8c3-59fd60ded8b8",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152215823.jpg"
+        },
+        {
+            "name": "DarkMoon_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/c09f4508-4b11-4a62-be56-e289f581178b",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152250331.jpg"
+        },
+        {
+            "name": "umb_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/4259d361-da85-4986-a132-f6b2feb7c02b",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152327197.jpg"
+        },
+        {
+            "name": "CURVES_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/490e4238-d9ec-4578-836f-3b78dace2db9",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152358886.jpg"
+        },
+        {
+            "name": "BrokenStar_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/6e570e59-6747-4239-afcf-fcb346933056",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152434065.jpg"
+        },
+        {
+            "name": "Rebon_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/44acfa43-7f31-4326-bb7f-9fa880cfda52",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152504117.jpg"
+        },
+        {
+            "name": "fragile hope",
+            "description": "http://zhuti.xiaomi.com/detail/547b6b6e-3d16-4349-9687-d533f74a63e0",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152540463.jpg"
+        },
+        {
+            "name": "DOUBLE CIRCLE_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/0bb9277b-7e0a-4ef6-93f7-008968a4ecf1",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152612338.jpg"
+        },
+        {
+            "name": "Pinklock_DWM2",
+            "description": "http://zhuti.xiaomi.com/detail/2b2e461c-adab-465e-ba15-193e4a4deab1",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152636572.jpg"
+        },
+        {
+            "name": "P or R V10",
+            "description": "http://zhuti.xiaomi.com/detail/201ac78f-4c1a-4043-9716-0afa3fb0ae05",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152750262.jpg"
+        },
+        {
+            "name": "sunset wrinkled icons V11",
+            "description": "http://zhuti.xiaomi.com/detail/cf00a72a-caf1-4e9d-876d-14e0fb0e4c98",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152853378.jpg"
+        },
+        {
+            "name": "RGB Dark",
+            "description": "http://zhuti.xiaomi.com/detail/7326af13-6de4-439b-93c8-6c95d1e71548",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152917037.jpg"
+        },
+        {
+            "name": "ONE UI Center Clock",
+            "description": "http://zhuti.xiaomi.com/detail/e3cba4a1-8a03-4953-9cb2-67d07ca6f5c9",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152939513.jpg"
+        },
+        {
+            "name": "J labs",
+            "description": "http://zhuti.xiaomi.com/detail/4efc6b4a-d0d1-4f23-8cab-9dd6a6a16893",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr153421844.jpg"
+        },
+        {
             "name": "45D_DWM19",
             "description": "http://zhuti.xiaomi.com/detail/fd822bd7-41ba-4d3d-b7cf-d7a560f76068",
             "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr125905648.jpg"
@@ -628,291 +913,6 @@
             "name": "PON NY",
             "description": "http://zhuti.xiaomi.com/detail/f9dabf38-c40b-48b1-bb50-78a7f13f39cf",
             "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140142819.jpg"
-        },
-        {
-            "name": "Undas Light",
-            "description": "http://zhuti.xiaomi.com/detail/0606dbd2-21a5-4428-95dc-135f1efff642",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140158201.jpg"
-        },
-        {
-            "name": "Âm lịch",
-            "description": "http://zhuti.xiaomi.com/detail/81beb8ff-bf2d-48f4-a13a-fb98f5cd6a91",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140217786.jpg"
-        },
-        {
-            "name": "CONQUER v11",
-            "description": "http://zhuti.xiaomi.com/detail/ad753480-73d2-4fa3-b12e-521e9bd9511c",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140235764.jpg"
-        },
-        {
-            "name": "Maximus",
-            "description": "http://zhuti.xiaomi.com/detail/6bfae588-035f-4a58-8480-672df1be08eb",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140350760.jpg"
-        },
-        {
-            "name": "Lavender v11",
-            "description": "http://zhuti.xiaomi.com/detail/8606c5c0-c9c5-406a-8163-349aa2091eb3",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140408367.jpg"
-        },
-        {
-            "name": "Worthy Foe",
-            "description": "http://zhuti.xiaomi.com/detail/25c6bf6c-6942-4cf5-a297-6dea3454c34f",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140423469.jpg"
-        },
-        {
-            "name": "ROUND_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/f0d3c108-db1d-4513-b6be-c38dbff70c33",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140453441.jpg"
-        },
-        {
-            "name": "Eclipse_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/9ba42d61-477a-4a58-aa3b-8788b104a615",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140509100.jpg"
-        },
-        {
-            "name": "Fields",
-            "description": "http://zhuti.xiaomi.com/detail/a1d19b68-31af-4af4-9c98-d9e2549e21be",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140526341.jpg"
-        },
-        {
-            "name": "Black N White_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/517e66c8-2c46-4a7e-8fbb-cd355b36b14a",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140539851.jpg"
-        },
-        {
-            "name": "Home 2",
-            "description": "http://zhuti.xiaomi.com/detail/bc39005d-6df0-4fb0-bc25-349c3e9177ae",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140555616.jpg"
-        },
-        {
-            "name": "Rog Phone v11",
-            "description": "http://zhuti.xiaomi.com/detail/41d024a6-923d-4068-8b86-6948aac300ac",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140628977.jpg"
-        },
-        {
-            "name": "ClassicalUi",
-            "description": "http://zhuti.xiaomi.com/detail/fb1c2174-3bff-4cd3-840e-6b692b87ffa0",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140648551.jpg"
-        },
-        {
-            "name": "SILHOUETTE_STIW_REGULAR",
-            "description": "http://zhuti.xiaomi.com/detail/903b97e1-994a-47d9-a476-52951a658608",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140750411.jpg"
-        },
-        {
-            "name": "MACLAREN_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/33fd5127-18c0-475f-8ba4-2277bc93f895",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140900032.jpg"
-        },
-        {
-            "name": "Lightness TT",
-            "description": "http://zhuti.xiaomi.com/detail/e0a84049-d440-4c06-b2c1-c194799c4fb3",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140920313.jpg"
-        },
-        {
-            "name": "focu smudge 10",
-            "description": "http://zhuti.xiaomi.com/detail/7c6bf512-624a-4e03-a1f4-febfcea49660",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140936602.jpg"
-        },
-        {
-            "name": "Returning v11",
-            "description": "http://zhuti.xiaomi.com/detail/ad9f0cee-76f2-4db4-8635-25aef247335b",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr140959833.jpg"
-        },
-        {
-            "name": "New ENIX",
-            "description": "http://zhuti.xiaomi.com/detail/6faa17f5-3c5c-4cad-8e0e-a8eb227f89bc",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141019489.jpg"
-        },
-        {
-            "name": "Heart_MiTurns5",
-            "description": "http://zhuti.xiaomi.com/detail/5f26d03d-bb2d-4d5d-b2b2-0109d6c5ea17",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141037106.jpg"
-        },
-        {
-            "name": "JDI Light",
-            "description": "http://zhuti.xiaomi.com/detail/c3859961-5c8a-43be-b234-93d80c9200c0",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141124263.jpg"
-        },
-        {
-            "name": "One Dual v11",
-            "description": "http://zhuti.xiaomi.com/detail/8de04813-ed63-4990-bd63-7fa11a5697ad",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141140449.jpg"
-        },
-        {
-            "name": "Samsung Old Ui_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/ea0e400e-bdfe-4851-abde-7ffd2df8981a",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141200390.jpg"
-        },
-        {
-            "name": "One Ui Final v11",
-            "description": "http://zhuti.xiaomi.com/detail/d48b61a7-cb7e-45d0-85a7-f298579fa0a6",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141225071.jpg"
-        },
-        {
-            "name": "Dark Red",
-            "description": "http://zhuti.xiaomi.com/detail/d18b7fe5-f73f-437d-8144-c66f26bd60d2",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141244350.jpg"
-        },
-        {
-            "name": "iOS 13 Max",
-            "description": "http://zhuti.xiaomi.com/detail/069b57f4-7c33-454c-8f17-f6e43a353f37",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141300451.jpg"
-        },
-        {
-            "name": "Pixel Dark_STEWE_PREMIUM",
-            "description": "http://zhuti.xiaomi.com/detail/6048c698-0987-4e7b-8e35-aac00982b69f",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141325651.jpg"
-        },
-        {
-            "name": "Earth",
-            "description": "http://zhuti.xiaomi.com/detail/9492b1ba-6faf-4407-a548-31c4548cb91d",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141343523.jpg"
-        },
-        {
-            "name": "NANO NY",
-            "description": "http://zhuti.xiaomi.com/detail/0f50e759-e303-4e97-946f-272429ae07b2",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141403068.jpg"
-        },
-        {
-            "name": "Black Shark 2 v11",
-            "description": "http://zhuti.xiaomi.com/detail/2de53688-f052-4408-8a18-dd396f51e70e",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141437302.jpg"
-        },
-        {
-            "name": "Green Powerful",
-            "description": "http://zhuti.xiaomi.com/detail/7321402a-6551-401c-9bb6-a0a838d061b3",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141452270.jpg"
-        },
-        {
-            "name": "Universal V11",
-            "description": "http://zhuti.xiaomi.com/detail/cd21ce05-aedf-40af-9690-c833bf7834de",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141508407.jpg"
-        },
-        {
-            "name": "Core Wave_STIW_PREMIUM",
-            "description": "http://zhuti.xiaomi.com/detail/8e893f4c-0a7d-4b4f-8326-cd4c9d26f0a9",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141546130.jpg"
-        },
-        {
-            "name": "Business Cool",
-            "description": "http://zhuti.xiaomi.com/detail/13c2530f-f4f8-4d24-aa78-ca2fe144cbab",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141629064.jpg"
-        },
-        {
-            "name": "All i want",
-            "description": "http://zhuti.xiaomi.com/detail/e07d0775-1d36-43ee-973d-bbaadd1ceff8",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr141653037.jpg"
-        },
-        {
-            "name": "LUCKY NY",
-            "description": "http://zhuti.xiaomi.com/detail/61701f26-fb84-4207-a144-47efb86e7d56",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142536541.jpg"
-        },
-        {
-            "name": "Circle ios_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/b5a215e9-a808-4fb9-ba13-abebc1378c01",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142614452.jpg"
-        },
-        {
-            "name": "Bluedot NY",
-            "description": "http://zhuti.xiaomi.com/detail/f53da708-34a9-4d75-a1ab-c561cc6b4c0c",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142638432.jpg"
-        },
-        {
-            "name": "Star Mountain",
-            "description": "http://zhuti.xiaomi.com/detail/c95baa5f-2325-424f-badc-2b4f4d6af7cd",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142658462.jpg"
-        },
-        {
-            "name": "ColorFul ios_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/f62534f0-26cb-4f86-a9a9-f57ef6393b66",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr142718882.jpg"
-        },
-        {
-            "name": "RING_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/7c78468a-aa5e-4b73-b019-921cd7edc327",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152040139.jpg"
-        },
-        {
-            "name": "ELEGANT_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/160db4b1-dcab-43a0-a01f-6116138380e7",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152101410.jpg"
-        },
-        {
-            "name": "Xperia v10",
-            "description": "http://zhuti.xiaomi.com/detail/bf4042cd-08d0-4b39-b858-b0a9adfe3575",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152127119.jpg"
-        },
-        {
-            "name": "Color OS7_DWM4",
-            "description": "http://zhuti.xiaomi.com/detail/6417b263-84d1-4104-b8c3-59fd60ded8b8",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152215823.jpg"
-        },
-        {
-            "name": "DarkMoon_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/c09f4508-4b11-4a62-be56-e289f581178b",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152250331.jpg"
-        },
-        {
-            "name": "umb_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/4259d361-da85-4986-a132-f6b2feb7c02b",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152327197.jpg"
-        },
-        {
-            "name": "CURVES_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/490e4238-d9ec-4578-836f-3b78dace2db9",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152358886.jpg"
-        },
-        {
-            "name": "BrokenStar_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/6e570e59-6747-4239-afcf-fcb346933056",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152434065.jpg"
-        },
-        {
-            "name": "Rebon_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/44acfa43-7f31-4326-bb7f-9fa880cfda52",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152504117.jpg"
-        },
-        {
-            "name": "fragile hope",
-            "description": "http://zhuti.xiaomi.com/detail/547b6b6e-3d16-4349-9687-d533f74a63e0",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152540463.jpg"
-        },
-        {
-            "name": "DOUBLE CIRCLE_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/0bb9277b-7e0a-4ef6-93f7-008968a4ecf1",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152612338.jpg"
-        },
-        {
-            "name": "Pinklock_DWM2",
-            "description": "http://zhuti.xiaomi.com/detail/2b2e461c-adab-465e-ba15-193e4a4deab1",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152636572.jpg"
-        },
-        {
-            "name": "P or R V10",
-            "description": "http://zhuti.xiaomi.com/detail/201ac78f-4c1a-4043-9716-0afa3fb0ae05",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152750262.jpg"
-        },
-        {
-            "name": "sunset wrinkled icons V11",
-            "description": "http://zhuti.xiaomi.com/detail/cf00a72a-caf1-4e9d-876d-14e0fb0e4c98",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152853378.jpg"
-        },
-        {
-            "name": "RGB Dark",
-            "description": "http://zhuti.xiaomi.com/detail/7326af13-6de4-439b-93c8-6c95d1e71548",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152917037.jpg"
-        },
-        {
-            "name": "ONE UI Center Clock",
-            "description": "http://zhuti.xiaomi.com/detail/e3cba4a1-8a03-4953-9cb2-67d07ca6f5c9",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr152939513.jpg"
-        },
-        {
-            "name": "J labs",
-            "description": "http://zhuti.xiaomi.com/detail/4efc6b4a-d0d1-4f23-8cab-9dd6a6a16893",
-            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr153421844.jpg"
         },
         {
             "name": "Soundrenaline",
