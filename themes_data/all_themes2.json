@@ -1,5 +1,75 @@
 [
         {
+            "description": "http://zhuti.xiaomi.com/detail/d3e6e7a2-4e7f-4a53-a647-d23e7c65612a",
+            "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/000.jpg",
+            "name": "yeye"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/b14fadb2-e77a-49ef-bc2a-ce3fe5d40e3b",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/001.jpg",
+            "name" : "F L A T"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/d49fca4f-f686-4b24-8d7b-28cd2f48e229",
+             "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/002.jpg",
+             "name" : "Calm Nature"
+            },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/ed3039c5-02d7-43ee-8f80-9174baadc983",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/003.jpg",
+            "name" : " LEAF"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/553bbe28-7cc3-4b26-be8f-7475b22d4378",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/004.jpg",
+            "name" : "iOS Magnifico"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/60148237-81d0-43b9-93ae-3d34ed6e42a0",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/005.jpg",
+            "name" : "NatureFlower "
+            },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/1cbfb664-98e7-4ece-87a8-1982b9c30994",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/006.jpg",
+            "name" : "Fish opera lotus"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/9f3ebd26-b018-49cb-a36c-e02dd5253df2",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/007.jpg",
+            "name" : "Dark Leaf"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/ee598187-3af0-472c-8ba8-b54673dc3a16",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/008.jpg",
+            "name" : "New leaf"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/74594643-2cb6-4a43-9c83-fbba27af84f9",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/009.jpg",
+            "name" : "zing"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/29d41d81-fa44-4b6a-b987-4f13161e6144",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/010.jpg",
+            "name" : "Sendiri lagi"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/813e5eb9-6dbf-434c-a738-7d1a3b7dcc1e",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/011.jpg",
+            "name" : "leaf"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/bd440369-ee1d-4324-980f-d0553c46e5f0",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/012.jpg",
+            "name" : "Greeny_DWM19"
+        },
+        {
+            "description": "http://zhuti.xiaomi.com/detail/f4af0e6e-6423-4e25-b7ed-8747376a8895",
+            "img" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/013.jpg",
+            "name" : "Emerald 3"
+        },
+        {
             "name": "RoyalMan_DWM2",
             "description": "http://zhuti.xiaomi.com/detail/643c364c-3a5d-428b-952a-3be9d29fda1b",
             "img": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/scr132941569.jpg"
