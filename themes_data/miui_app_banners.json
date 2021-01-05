@@ -2,19 +2,19 @@
   {
   "name": "Happe New Year",
   "name_ru": "С новым годом",
-  "child": "simple_category",
+  "child_name": "simple_category",
   "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/promo_banner.jpg"
   },
   {
       "name": "Happe New Year",
   "name_ru": "С новым годом",
-  "child": "simple_category",
+  "child_name": "autumn_themes_of_banner",
     "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner2.png"
   },
   {
       "name": "Happe New Year",
   "name_ru": "С новым годом",
-  "child": "simple_category",
+  "child_name": "direct_download",
     "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner3.png"
   }
 ]
