@@ -1,0 +1,14 @@
+[
+  {
+  "name": "Happe New Year",
+  "name_ru": "С новым годом",
+  "child": "simple_category",
+  "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/promo_banner.jpg"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner2.png"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner3.png"
+  }
+]
