@@ -14,6 +14,20 @@
     "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner2.png"
   },
   {
+  "name": "Happe New Year",
+  "name_ru": "С новым годом",
+  "child_name": "",
+  "title": "",  
+  "image": "https://images.wallpaperscraft.com/image/tree_garland_snow_153844_1280x720.jpg"
+  },
+  {
+  "name": "",
+  "name_ru": "",
+  "child_name": "",
+  "title": "",  
+  "image": "https://images.wallpaperscraft.com/image/camellia_flower_pink_196298_1280x720.jpg"
+  },
+  {
       "name": "Direct Download",
   "name_ru": "Прямая занрузка",
   "child_name": "direct_download",
