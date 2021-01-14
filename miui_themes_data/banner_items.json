@@ -1,7 +1,11 @@
 [
   {
   "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/promo_banner.jpg",
-  "type_theme": true  
+  "type_theme": true,
+  "tag0": "winter",
+  "tag1": "ice",
+  "tag2": "snow",
+  "tag3": "frozen"
   },
   {
       "name": "New themes",
