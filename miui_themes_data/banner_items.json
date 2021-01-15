@@ -1,6 +1,10 @@
 [
   {
   "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/promo_banner.jpg",
+    "tag0": "car",
+    "tag1": "moto",
+    "tag2": "bmw",
+    "tag3": "bike",
   "type_theme": true  
   },
   {
@@ -13,8 +17,10 @@
   {
   "name": "Happe New Year",
   "name_ru": "С новым годом",
-  "child_name": "",
-  "title": "",  
+    "tag0": "car",
+    "tag1": "moto",
+    "tag2": "bmw",
+    "tag3": "bike",
   "image": "https://images.wallpaperscraft.com/image/tree_garland_snow_153844_1280x720.jpg"
   },
   {
