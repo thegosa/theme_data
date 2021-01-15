@@ -5,14 +5,16 @@
   "tag0": "winter",
   "tag1": "ice ",
   "tag2": "snow",
-  "tag3": "frozen"
+  "tag3": "frozen",
   },
   {
       "name": "New themes",
   "name_ru": "Новые темы",
-  "child_name": "new_themes",
-    "title": "999999991",
-    "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner2.png"
+    "tag0": "winter",
+  "tag1": "ice ",
+  "tag2": "snow",
+  "tag3": "frozen",
+  "image": "https://raw.githubusercontent.com/thegosa/blackstyle/master/banner2.png"
   },
   {
   "name": "Happe New Year",
