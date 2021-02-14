@@ -1,5 +1,16 @@
 [
     {
+        "image": "https://image.freepik.com/free-vector/geometrical-abstract-background_53876-90577.jpg",
+        "name": "Abstract Wallpapers"
+        "from": 0,
+        "until": 1,
+        "limit_count": 0,
+        "tag0": "abstract",
+        "tag1": "geometrical",
+        "tag2": "art",
+        "tag3": "vector"
+    },
+    {
   "image": "https://images.wallpaperscraft.com/image/dahlias_flowers_pink_199222_1280x720.jpg",
     "name" : "Dark Themes",
     "from": 25,
