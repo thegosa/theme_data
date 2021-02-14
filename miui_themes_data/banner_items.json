@@ -5,6 +5,10 @@
     "tag1": "black",
     "tag2": "dark",
     "tag3": "vallll",
+    "name" : "Dark Themes"
+    "from": 20
+    "until": 2
+    "limit_count": 9
   "type_theme": true  
   },
   {
