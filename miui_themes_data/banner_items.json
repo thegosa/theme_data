@@ -1,4 +1,12 @@
 [
+    {
+  "image": "https://images.wallpaperscraft.com/image/dahlias_flowers_pink_199222_1280x720.jpg",
+    "name" : "Dark Themes",
+    "from": 25,
+    "until": 2,
+    "limit_count": 9,
+  "type_theme": true  
+  },
   {
   "image": "https://image.freepik.com/free-photo/black-brick-wall-textured-background_53876-63572.jpg",
     "tag0": "texture",
