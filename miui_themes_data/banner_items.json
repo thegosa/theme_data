@@ -1,5 +1,14 @@
 [
     {
+        "image": "https://image.freepik.com/free-vector/black-background-with-flowing-curve-lines-design_1017-25373.jpg",
+        "name": "Dark Lines",
+        "name_ru": "Черные линии",
+        "tag0": "line",
+        "tag1": "dark",
+        "tag2": "black",
+        "tag3": "night"
+    },
+    {
         "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/neon_themes.jpg",
         "name": "Abstract & Neon",
         "name_ru": "Абстракт & Неон",
