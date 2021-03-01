@@ -1,5 +1,15 @@
 [
     {
+        "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/neon_themes.jpg",
+        "name": "Abstract & Neon",
+        "name_ru": "Абстракт & Неон",
+        "tag0": "abstract",
+        "tag1": "neon",
+        "tag2": "color",
+        "tag3": "tech",
+        "type_theme": true
+    },
+    {
         "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/abstract_neon.jpg",
         "name": "Abstract & Neon",
         "name_ru": "Абстракт & Неон",
