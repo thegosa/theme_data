@@ -1,5 +1,22 @@
 [
     {
+        "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/random_themes_banner.jpg",
+        "name" : "More interesting",
+        "name_ru": "Больше интересных",
+        "from": 45,
+        "until": 2,
+        "limit_count": 250,
+        "type_theme": true 
+    },
+    {
+        "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/space_themes.jpg",
+        "name": "Space",
+        "name_ru": "Космос",
+        "tag0": "space",
+        "tag1": "galaxy",
+        "type_theme": true
+    },
+    {
         "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/dark_lines.jpg",
         "name": "Dark Lines",
         "name_ru": "Черные линии",
@@ -37,33 +54,6 @@
         "tag1": "geometrical",
         "tag2": "art",
         "tag3": "vector"
-    },
-    {
-  "image": "https://images.wallpaperscraft.com/image/dahlias_flowers_pink_199222_1280x720.jpg",
-    "name" : "Dark Themes",
-    "from": 25,
-    "until": 2,
-    "limit_count": 9,
-  "type_theme": true  
-  },
-  {
-  "image": "https://image.freepik.com/free-photo/black-brick-wall-textured-background_53876-63572.jpg",
-    "tag0": "texture",
-    "tag1": "black",
-    "tag2": "dark",
-    "tag3": "vallll",
-    "name" : "Dark Themes",
-    "from": 20,
-    "until": 2,
-    "limit_count": 9,
-  "type_theme": true  
-  },
-  {
-  "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/promo_banner.jpg",
-    "tag0": "love",
-    "tag1": "heart",
-    "tag2": "gift",
-    "tag3": "valentine",
-  "type_theme": true  
-  }
+    }
+
 ]
