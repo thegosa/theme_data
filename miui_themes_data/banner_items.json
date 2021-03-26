@@ -1,5 +1,14 @@
 [
     {
+        "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/flower_banner_background.jpg",
+        "name": "Flowers",
+        "name_ru": "Цветы",
+        "tag0": "flower",
+        "tag1": "rose",
+        "tag2": "leave",
+        "tag3": "bloom"
+    },
+    {
         "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/random_themes_banner.jpg",
         "name" : "More interesting",
         "name_ru": "Больше интересных",
