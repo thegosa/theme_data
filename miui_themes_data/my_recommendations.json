@@ -1,5 +1,18 @@
 [
   {
+    "subject": "Get more contents:",
+    "name": "Most popular themes",
+    "name": "Популярные темы",
+    "open_themes": true,
+    "large_image": "https://images.wallpaperscraft.com/image/city_buildings_aerial_view_202723_1280x720.jpg"
+  }
+    {
+    "name": "Most popular wallpapers",
+    "name": "Популярные обои",
+    "open_wallpapers": true,
+    "large_image": "https://images.wallpaperscraft.com/image/ubes_rendering_tunnel_120803_1280x720.jpg"
+  }
+  {
     "subject": "Recommended Apps:",
     "subject_ru": "Рекомендуемые приложения:",
     "title": "iOS 14 Style",
@@ -17,6 +30,7 @@
     "body": "iOS 14 in your phone",
     "body_ru": "iOS 14 в твоем смартфоне",
     "small_image": "https://play-lh.googleusercontent.com/GOFfXKx24WXZYEfC4MQvZFl2kG8idhJ3gZrf8GY1XxJXXvY_tFC4tnlsGdCK9Y7MbCWA=s180-rw",
-    "large_image": "https://pbs.twimg.com/media/EsnGo6xXIAQd-Bq?format=jpg&name=large"
+    "large_image": "https://pbs.twimg.com/media/EsnGo6xXIAQd-Bq?format=jpg&name=large",
+    "open_link": "https://play.google.com/store/apps/details?id=com.thegosa.os14style"
   }
 ]
