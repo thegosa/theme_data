@@ -7,7 +7,9 @@
     "body": "iOS 14 in your phone",
     "body_ru": "iOS 14 в твоем смартфоне",
     "small_image": "https://play-lh.googleusercontent.com/GOFfXKx24WXZYEfC4MQvZFl2kG8idhJ3gZrf8GY1XxJXXvY_tFC4tnlsGdCK9Y7MbCWA=s180-rw",
-    "large_image": "https://pbs.twimg.com/media/EsnGo6xXIAQd-Bq?format=jpg&name=large"
+    "large_image": "https://pbs.twimg.com/media/EsnGo6xXIAQd-Bq?format=jpg&name=large",
+    "button": "Install",
+    "button": "Установить"
   },
     {
     "title": "iOS 14 Style",
