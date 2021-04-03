@@ -4,12 +4,18 @@
     "name": "Most popular themes",
     "name": "Популярные темы",
     "open_themes": true,
+    "from": 180,
+    "until": 600,
+    "limit_count": 100,
     "large_image": "https://images.wallpaperscraft.com/image/city_buildings_aerial_view_202723_1280x720.jpg"
   }
     {
     "name": "Most popular wallpapers",
     "name": "Популярные обои",
     "open_wallpapers": true,
+    "tag0": "car",
+    "tag1": "bmw",
+    "tag2": "auto",
     "large_image": "https://images.wallpaperscraft.com/image/ubes_rendering_tunnel_120803_1280x720.jpg"
   }
   {
