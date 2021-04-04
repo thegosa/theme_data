@@ -15,7 +15,8 @@
     "open_wallpapers": true,
     "tag0": "car",
     "tag1": "bmw",
-    "height_large_image": 100,
+    "height_large_image": 200,
+    "text_on_image": "Most popular wallpapers",
     "tag2": "auto",
     "large_image": "https://images.wallpaperscraft.com/image/ubes_rendering_tunnel_120803_1280x720.jpg"
   },
