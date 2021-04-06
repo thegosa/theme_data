@@ -5,6 +5,7 @@
     "name": "Most popular themes",
     "name_ru": "Популярные темы",
     "text_on_image": "Most popular themes",
+    "text_on_image_ru": "Популярные темы",
     "height_large_image": 270,
     "open_themes": true,
     "from": 180,
@@ -18,11 +19,11 @@
     "open_wallpapers": true,
     "tag0": "car",
     "tag1": "bmw",
-    "height_large_image": 200,
+    "height_large_image": 270,
     "text_on_image": "Most popular wallpapers",
     "text_on_image_ru": "Популярные обои",
     "tag2": "auto",
-    "large_image": "https://images.wallpaperscraft.com/image/ubes_rendering_tunnel_120803_1280x720.jpg"
+    "large_image": "https://images.wallpaperscraft.com/image/porsche_911_carrera_rsr_porsche_sports_car_139640_1280x720.jpg"
   },
   {
     "subject": "Recommended Apps:",
@@ -34,15 +35,7 @@
     "small_image": "https://play-lh.googleusercontent.com/GOFfXKx24WXZYEfC4MQvZFl2kG8idhJ3gZrf8GY1XxJXXvY_tFC4tnlsGdCK9Y7MbCWA=s180-rw",
     "large_image": "https://pbs.twimg.com/media/EsnGo6xXIAQd-Bq?format=jpg&name=large",
     "button": "Install",
-    "button": "Установить"
-  },
-    {
-    "title": "iOS 14 Style",
-    "title_ru": "iOS 14 Стиль",
-    "body": "iOS 14 in your phone",
-    "body_ru": "iOS 14 в твоем смартфоне",
-    "small_image": "https://play-lh.googleusercontent.com/GOFfXKx24WXZYEfC4MQvZFl2kG8idhJ3gZrf8GY1XxJXXvY_tFC4tnlsGdCK9Y7MbCWA=s180-rw",
-    "large_image": "https://pbs.twimg.com/media/EsnGo6xXIAQd-Bq?format=jpg&name=large",
+    "button_ru": "Установить",
     "open_link": "https://play.google.com/store/apps/details?id=com.thegosa.os14style"
   }
 ]
