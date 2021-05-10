@@ -7,8 +7,8 @@
       "paid" : "paid_themes"
     },
     {
-      "desc" : "Install",
-      "desc_ru" : "Установить",
+      "btn" : "Install",
+      "btn_ru" : "Установить",
       "dw" : "https://play.google.com/store/apps/details?id=com.thegosa.phone12wallpapers",
       "image" : "https://play-lh.googleusercontent.com/IigR9Qi-DGyMOiQor4uyUTuYrJbfePHDDAUGzTPVhMKW0WXtDoC-GEOCYGe_OodsC5g=s180-rw",
       "img" : "https://pbs.twimg.com/media/EmFw2ekXgAEn46x?format=jpg&name=4096x4096",
