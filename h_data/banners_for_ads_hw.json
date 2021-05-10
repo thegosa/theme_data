@@ -1,12 +1,5 @@
 [
-    {
-      "img" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/Exclusive%20from%20us.jpg",
-      "img_ru" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/Exclusive%20from%20us.jpg",
-      "name" : "Paid Themes",
-      "name_ru" : "Платные темы",
-      "paid" : "paid_themes"
-    },
-    {
+   {
       "btn" : "Install",
       "btn_ru" : "Установить",
       "dw" : "https://play.google.com/store/apps/details?id=com.thegosa.phone12wallpapers",
