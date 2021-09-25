@@ -1,5 +1,15 @@
 [
     {
+        "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/banner_themes/autumn.jpg",
+        "name": "Autumn",
+        "name_ru": "Осень",
+        "type_theme": true,
+        "tag0": "autumn",
+        "tag1": "orange",
+        "tag2": "leaves",
+        "tag3": "rain"
+    },
+    {
         "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/flower_banner_background.jpg",
         "name": "Flowers",
         "name_ru": "Цветы",
