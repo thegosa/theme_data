@@ -4,13 +4,27 @@
     "subject_ru": "Самые популярные:",
     "name": "Happy Halloween",
     "name_ru": "Счастливого Хэллоуина",
-    "height_large_image": 300,
-    "open_themes": false,
+    "height_large_image": 350,
+    "open_wallpapers": true,
         "tag0": "halloween",
         "tag1": "pumpkin",
         "tag2": "zombie",
         "tag3": "mask",
     "large_image": "https://cdn.pixabay.com/photo/2021/10/17/17/57/happy-halloween-6719085_960_720.png"
+  },
+    
+  {
+    "name": "Happy Halloween",
+    "name_ru": "Счастливого Хэллоуина",
+    "open_themes": true,
+    "height_large_image": 350,
+    "text_on_image": "Halloween Themes",
+        "tag0": "halloween",
+        "tag1": "pumpkin",
+        "tag2": "zombie",
+        "tag3": "mask",
+    "text_on_image_ru": "Темы Хэллоуин",
+    "large_image": "https://images.unsplash.com/photo-1477516561410-f0b5dd8319e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
   },
   {
     "subject": "Get more contents:",
