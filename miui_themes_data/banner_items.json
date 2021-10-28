@@ -31,6 +31,15 @@
         "tag3": "rain"
     },
     {
+        "image": "https://cdn.pixabay.com/photo/2021/10/17/17/57/happy-halloween-6719085_960_720.png",
+        "name": "Happy Halloween",
+        "name_ru": "Счастливого Хэллоуина",
+        "tag0": "halloween",
+        "tag1": "pumpkin",
+        "tag2": "zombie",
+        "tag3": "mask"
+    },
+    {
         "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/flower_banner_background.jpg",
         "name": "Flowers",
         "name_ru": "Цветы",
