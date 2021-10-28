@@ -1,4 +1,17 @@
 [
+    {
+    "subject": "Most popular:",
+    "subject_ru": "Самые популярные:",
+    "name": "Happy Halloween",
+    "name_ru": "Счастливого Хэллоуина",
+    "height_large_image": 300,
+    "open_themes": false,
+        "tag0": "halloween",
+        "tag1": "pumpkin",
+        "tag2": "zombie",
+        "tag3": "mask"
+    "large_image": "https://cdn.pixabay.com/photo/2021/10/17/17/57/happy-halloween-6719085_960_720.png"
+  },
   {
     "subject": "Get more contents:",
     "subject_ru": "Получите больше контента:",
