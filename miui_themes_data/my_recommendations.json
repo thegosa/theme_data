@@ -2,29 +2,31 @@
     {
     "subject": "Most popular:",
     "subject_ru": "Самые популярные:",
-    "name": "Happy Halloween",
-    "name_ru": "Счастливого Хэллоуина",
+    "name": "Hello Winter",
+    "name_ru": "Привет зима",
     "height_large_image": 350,
     "open_wallpapers": true,
-        "tag0": "halloween",
-        "tag1": "pumpkin",
-        "tag2": "zombie",
-        "tag3": "mask",
-    "large_image": "https://cdn.pixabay.com/photo/2021/10/17/17/57/happy-halloween-6719085_960_720.png"
+        "text_on_image": "Winter Wallpapers",
+        "text_on_image_ru": "Зимние обои",
+        "tag0": "winter",
+        "tag1": "snow",
+        "tag2": "holiday",
+        "tag3": "ice",
+    "large_image": "https://image.freepik.com/free-vector/vector-illustration-winter-landscape_1441-130.jpg"
   },
     
   {
-    "name": "Happy Halloween",
-    "name_ru": "Счастливого Хэллоуина",
+    "name": "Hello winter",
+    "name_ru": "Привет зима",
     "open_themes": true,
     "height_large_image": 350,
-    "text_on_image": "Halloween Themes",
-        "tag0": "halloween",
-        "tag1": "pumpkin",
-        "tag2": "zombie",
-        "tag3": "mask",
-    "text_on_image_ru": "Темы Хэллоуин",
-    "large_image": "https://images.unsplash.com/photo-1477516561410-f0b5dd8319e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
+    "text_on_image": "Winter Themes",
+        "tag0": "snow",
+        "tag1": "winter",
+        "tag2": "holiday",
+        "tag3": "ice",
+    "text_on_image_ru": "Зимние темы",
+    "large_image": "https://images.wallpaperscraft.com/image/single/lamps_snow_winter_evening_57366_1280x720.jpg"
   },
   {
     "subject": "Get more contents:",
