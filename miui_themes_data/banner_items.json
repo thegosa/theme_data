@@ -1,23 +1,14 @@
 [
-    {
-        "image": "https://images.unsplash.com/photo-1600607276042-9b383a0dfe2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYzMzUyNzU5MQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-        "name": "Autumn Wallpapers",
-        "name_ru": "Осенние обои",
-        "tag0": "autumn",
-        "tag1": "orange",
-        "tag2": "leaves",
-        "tag3": "pumpkin"
-    },
     
     {
-        "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/banner_themes/autumn.jpg",
-        "name": "Autumn",
-        "name_ru": "Осень",
+        "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/banner_themes/winterbanner2021.jpg",
+        "name": "Winter",
+        "name_ru": "Зима",
         "type_theme": true,
-        "tag0": "autumn",
-        "tag1": "orange",
-        "tag2": "leaves",
-        "tag3": "rain"
+        "tag0": "winter",
+        "tag1": "snow",
+        "tag2": "holiday",
+        "tag3": "ice"
     },
 
     {
