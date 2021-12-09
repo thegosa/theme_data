@@ -7043,13 +7043,7 @@
   "image" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/jpg/2020_11_05_04.30.51.jpg",
   "title" : "Dark white"
   },
-  {
-    "child_name" :  "999999950",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/shubham_edition.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/shubham_edition1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/shubham_edition.mtz",
-  "title" : "shubham edition"
-  },
+
   {
     "child_name" :  "999999951",
   "desc" : "http://zhuti.xiaomi.com/detail/b6689a9c-b7f3-4483-973b-7d0b137122a9",
@@ -7068,26 +7062,14 @@
   "image" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/jpg/2020_11_05_04.25.57.jpg",
   "title" : "Tech blue"
   },
-  {
-    "child_name" :  "999999956",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Cloud_DWM20.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Cloud_DWM201.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Cloud_DWM20.mtz",
-  "title" : "Cloud"
-  },
+
   {
     "child_name" :  "999999957",
   "desc" : "http://zhuti.xiaomi.com/detail/7604fe65-9806-4c45-b298-9ec1b4e2477c",
   "image" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/jpg/2020_11_05_04.24.14.jpg",
   "title" : "Monster party"
   },
-  {
-    "child_name" :  "999999958",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/3D_Black_mod_v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/3D_Black_mod_v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/3D_Black_mod_v12.mtz",
-  "title" : "3D Black mod"
-  },
+
   {
     "child_name" :  "999999959",
   "desc" : "http://zhuti.xiaomi.com/detail/706888e8-f62b-48e9-b646-c607199a5940",
@@ -13113,20 +13095,7 @@
   "image" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/jpg/2020_08_24_02.15.43.jpg",
   "title" : "Abstract"
   },
-  {
-    "child_name" :  "1015504192437",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsDark Desire V11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsDark Desire V111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsDark Desire V11.mtz",
-  "title" : "Dark Desire"
-  },
-  {
-    "child_name" :  "101550419271",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience Square[Eu rom].jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience Square[Eu rom]1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience Square[Eu rom].mtz",
-  "title" : "Square"
-  },
+
   {
     "child_name" :  "101550420531",
   "desc" : "http://zhuti.xiaomi.com/detail/b13a4ad7-9bac-4589-8499-bffe3c7db672",
@@ -13139,41 +13108,7 @@
   "image" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/ths_screenshots/2020_08_22_02.02.42.jpg",
   "title" : "Neon-Light"
   },
-  {
-    "child_name" :  "101552815942",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBIG SUR [MOD].jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBIG SUR [MOD]1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBIG SUR [MOD].mtz",
-  "title" : "Big sur"
-  },
-  {
-    "child_name" :  "10155282211",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsKartos.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsKartos1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsKartos.mtz",
-  "title" : "Kartos"
-  },
-  {
-    "child_name" :  "10155282249",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsPixel 4 Dark.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsPixel 4 Dark1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsPixel 4 Dark.mtz",
-  "title" : "Pixel 4 Dark"
-  },
-  {
-    "child_name" :  "10155282414",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsworst gradient.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsworst gradient1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsworst gradient.mtz",
-  "title" : "Worst gradient"
-  },
-  {
-    "child_name" :  "10155282652",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsVolcano.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsVolcano1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsVolcano.mtz",
-  "title" : "Volcano"
-  },
+
   {
     "child_name" :  "10155369416",
   "desc" : "http://zhuti.xiaomi.com/detail/b1fef3c2-4f12-4ecf-bcf5-3118ef673fb8",
@@ -13185,27 +13120,6 @@
   "desc" : "http://zhuti.xiaomi.com/detail/62e7bb59-fcdf-4943-9103-f93b35f9508a",
   "image" : "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/ths_screenshots/2020_07_20_00.45.36.jpg",
   "title" : "Colourful Umbrellas"
-  },
-  {
-    "child_name" :  "101554961239",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsPixel%20Q%20V12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsPixel%20Q%20V121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsPixel%20Q%20V12.mtz",
-  "title" : "Pixel Q"
-  },
-  {
-    "child_name" :  "10155496818",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsiOS%2014.1%20dual%20mode%20v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsiOS%2014.1%20dual%20mode%20v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsiOS%2014.1%20dual%20mode%20v12.mtz",
-  "title" : "iOS 14.1"
-  },
-  {
-    "child_name" :  "10155496922",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsTwo%20Aura%20v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsTwo%20Aura%20v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsTwo%20Aura%20v12%20.mtz",
-  "title" : "Two Aura"
   },
   {
     "child_name" :  "101554985325",
@@ -13753,27 +13667,7 @@
   "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/ths_screenshots/june25-09-19-10-354.jpg",
   "title" : "Ditoni Purple"
   },
-  {
-    "child_name" :  "109591861043",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_MaxMan.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_MaxMan1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsMaxMan.mtz",
-  "title" : "MaxMan"
-  },
-  {
-    "child_name" :  "10959186137",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_ColorOS%206.2.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_ColorOS%206.21.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsColorOS%206.2.mtz",
-  "title" : "ColorOS"
-  },
-  {
-    "child_name" :  "10959186229",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_BACK-1.0.0.2.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_BACK-1.0.0.21.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBACK-1.0.0.2.mtz",
-  "title" : "Back"
-  },
+
   {
     "child_name" :  "1095919131946",
   "desc" : "http://zhuti.xiaomi.com/detail/fd1fd849-ec2b-416d-b658-85dc43a82022",
@@ -14074,328 +13968,7 @@
   "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/ths_screenshots/june18174034934.jpg",
   "title" : "Boat"
   },
-  {
-    "child_name" :  "99235504192414",
-  "download_count" : 3,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsBlack shark Lite.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsBlack shark Lite1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsBlack shark Lite.mtz",
-  "title" : "Black shark Lite"
-  },
-  {
-    "child_name" :  "99235504192459",
-  "download_count" : 1,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsDiscord v11 Dualmode.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsDiscord v11 Dualmode1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsDiscord v11 Dualmode.mtz",
-  "title" : "Discord"
-  },
-  {
-    "child_name" :  "99235504192539",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsGREEN+[Liquid].jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsGREEN+[Liquid]1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsGREEN+[Liquid].mtz",
-  "title" : "Green"
-  },
-  {
-    "child_name" :  "99235504192616",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsJiyan+Colorful.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsJiyan+Colorful1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsJiyan+Colorful.mtz",
-  "title" : "Jiyan Colorful"
-  },
-  {
-    "child_name" :  "99235504192637",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsMinimal_OS Dual.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsMinimal_OS Dual1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsMinimal_OS Dual.mtz",
-  "title" : "Minimal"
-  },
-  {
-    "child_name" :  "99235504192724",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsOuterSpace V11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsOuterSpace V111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsOuterSpace V11.mtz",
-  "title" : "Outer Space"
-  },
-  {
-    "child_name" :  "99235504192757",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience squircle.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience squircle1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience squircle.mtz",
-  "title" : "Squircle"
-  },
-  {
-    "child_name" :  "99235504192820",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience Teardrop [Eu rom].jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience Teardrop [Eu rom]1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsPixel Experience Teardrop [Eu rom].mtz",
-  "title" : "Pixel Experience"
-  },
-  {
-    "child_name" :  "99235504192850",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsSaturnUI V11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsSaturnUI V111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/hw_themes_screens/thsSaturnUI V11.mtz",
-  "title" : "Saturn UI"
-  },
-  {
-    "child_name" :  "99235504193033",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsRADIATE_3MDP.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsRADIATE_3MDP1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsRADIATE_3MDP.mtz",
-  "title" : "Radiate"
-  },
-  {
-    "child_name" :  "9923550419314",
-  "download_count" : 1,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsEmpty.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsEmpty1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsEmpty.mtz",
-  "title" : "Empty"
-  },
-  {
-    "child_name" :  "9923552815924",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsAbstract [Wave](2).jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsAbstract [Wave](2)1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsAbstract [Wave](2).mtz",
-  "title" : "Abstract [Wave]"
-  },
-  {
-    "child_name" :  "9923552815958",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBYMAXV11-1.0.0.1.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBYMAXV11-1.0.0.11.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsBYMAXV11-1.0.0.1.mtz",
-  "title" : "Bymaxv"
-  },
-  {
-    "child_name" :  "992355282018",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsClassics v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsClassics v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsClassics v12.mtz",
-  "title" : "Classics"
-  },
-  {
-    "child_name" :  "992355282036",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thscolor os 5.1.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thscolor os 5.11.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thscolor os 5.1.mtz",
-  "title" : "Color os"
-  },
-  {
-    "child_name" :  "992355282140",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsGlow NY.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsGlow NY1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsGlow NY.mtz",
-  "title" : "Glow NY"
-  },
-  {
-    "child_name" :  "992355282159",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsHope.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsHope1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsHope.mtz",
-  "title" : "Hope"
-  },
-  {
-    "child_name" :  "992355282228",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsNuhanainu Dual V11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsNuhanainu Dual V111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsNuhanainu Dual V11.mtz",
-  "title" : "Nuhanainu"
-  },
-  {
-    "child_name" :  "992355282335",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSpce v11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSpce v111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSpce v11.mtz",
-  "title" : "Spce"
-  },
-  {
-    "child_name" :  "992355282353",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSProv12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSProv121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSProv12.mtz",
-  "title" : "S Pro"
-  },
-  {
-    "child_name" :  "992355282414",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsworst gradient.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsworst gradient1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsworst gradient.mtz",
-  "title" : "Worst gradient"
-  },
-  {
-    "child_name" :  "992355282637",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsStock Pie.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsStock Pie1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsStock Pie.mtz",
-  "title" : "Stock Pie"
-  },
-  {
-    "child_name" :  "9923554961019",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsTramontos%20v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsTramontos%20v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsTramontos%20v12.mtz",
-  "title" : "Tramontos"
-  },
-  {
-    "child_name" :  "992355496111",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsThe%20Green%20Grid_3MDP.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsThe%20Green%20Grid_3MDP1.jpg",
-  "mtz" : "https://www.dropbox.com/s/158firpzqr35i6r/thsThe%20Green%20Grid_3MDP.mtz?dl=1",
-  "title" : "Green Grid"
-  },
-  {
-    "child_name" :  "9923554961153",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsSummer%20V12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsSummer%20V121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsSummer%20V12.mtz",
-  "title" : "Summer"
-  },
-  {
-    "child_name" :  "9923554961348",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsMinimal4.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsMinimal41.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsMinimal4.mtz",
-  "title" : "Minimal"
-  },
-  {
-    "child_name" :  "9923554962624",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsIsshiki%20Iroha.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsIsshiki%20Iroha1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsIsshiki%20Iroha%20V11.mtz",
-  "title" : "Isshiki Iroha"
-  },
-  {
-    "child_name" :  "992355496818",
-  "download_count" : 2500,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsiOS%2014.1%20dual%20mode%20v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/09_07_thsiOS%2014.1%20dual%20mode%20v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsiOS%2014.1%20dual%20mode%20v12.mtz",
-  "title" : "iOS 14.1"
-  },
-  {
-    "child_name" :  "99235554141647",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_PinBy.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_PinBy1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsPinBy.mtz",
-  "title" : "PinBy"
-  },
-  {
-    "child_name" :  "9923591861136",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_Gradient%2BDark-1.0.0.1.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_Gradient%2BDark-1.0.0.11.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsGradient%2BDark-1.0.0.1.mtz",
-  "title" : "Gradient Dark"
-  },
-  {
-    "child_name" :  "9923591861450",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_Chip%20v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_Chip%20v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsChip%20v12.mtz",
-  "title" : "Chip"
-  },
-  {
-    "child_name" :  "992359186714",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_Premium%20Black%202.0%20v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_Premium%20Black%202.0%20v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsPremium%20Black%202.0%20v12.mtz",
-  "title" : "Premium Black"
-  },
-  {
-    "child_name" :  "992359186950",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_OxiFy%20V11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/screen/23062020_OxiFy%20V111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/thsOxiFy%20V11.mtz",
-  "title" : "OxiFy"
-  },
-  {
-    "child_name" :  "9923999947",
-  "download_count" : 2,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Vision_DWM20.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Vision_DWM201.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Vision_DWM20.mtz",
-  "title" : "Vision DWM20"
-  },
-  {
-    "child_name" :  "9923999948",
-  "download_count" : 1500,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Uchiha_MIUI.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Uchiha_MIUI1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Uchiha_MIUI.mtz",
-  "title" : "Uchiha MIUI"
-  },
-  {
-    "child_name" :  "9923999949",
-  "download_count" : 501,
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/SPHERE.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/SPHERE1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/SPHERE.mtz",
-  "title" : "SPHERE"
-  },
-  {
-    "child_name" :  "9923999950",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/shubham_edition.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/shubham_edition1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/shubham_edition.mtz",
-  "title" : "shubham edition"
-  },
-  {
-    "child_name" :  "9923999951",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/PROJECT.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/PROJECT1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/PROJECT.mtz",
-  "title" : "PROJECT"
-  },
-  {
-    "child_name" :  "9923999952",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Lion_King_DWM20.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Lion_King_DWM201.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Lion_King_DWM20.mtz",
-  "title" : "Lion King"
-  },
-  {
-    "child_name" :  "9923999953",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/KING_SHADOW_11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/KING_SHADOW_111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/KING_SHADOW_11.mtz",
-  "title" : "KING SHADOW"
-  },
-  {
-    "child_name" :  "9923999954",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Diversion_UI.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Diversion_UI1.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Diversion_UI.mtz",
-  "title" : "Diversion"
-  },
-  {
-    "child_name" :  "9923999955",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Dejavu_Dark_V11.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Dejavu_Dark_V111.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Dejavu_Dark_V11.mtz",
-  "title" : "Dejavu Dark"
-  },
-  {
-    "child_name" :  "9923999956",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Cloud_DWM20.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Cloud_DWM201.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Cloud_DWM20.mtz",
-  "title" : "Cloud"
-  },
-  {
-    "child_name" :  "9923999957",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Bianco_perla_mod_v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Bianco_perla_mod_v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/Bianco_perla_mod_v12.mtz",
-  "title" : "Bianco perla"
-  },
-  {
-    "child_name" :  "9923999958",
-  "image" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/3D_Black_mod_v12.jpg",
-  "img2" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/3D_Black_mod_v121.jpg",
-  "mtz" : "https://github.com/thegosa/temalaryng-suraty/raw/master/mtz_themes/3D_Black_mod_v12.mtz",
-  "title" : "3D Black mod"
-  },
+ 
   {
     "child_name" :  "9999999999998904",
   "desc" : "http://zhuti.xiaomi.com/detail/454d5539-eedb-4268-80e9-1f7a9f6ea3ee",
