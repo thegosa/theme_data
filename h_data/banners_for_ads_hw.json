@@ -1,15 +1,3 @@
 [
-  {
-    "subject": "Recommended Apps:",
-    "subject_ru": "Рекомендуемые приложения:",
-    "title": "Galaxy Themes",
-    "title_ru": "Galaxy темы",
-    "body": "Get new themes and wallpapers for your Galaxy every day!",
-    "body_ru": "Получайте каждый день новые темы и обои для вашего Galaxy",
-    "small_image": "https://play-lh.googleusercontent.com/l32y0a-KlTEwd_qgHEMf0-J-czp-tlJjIvlQS9wqpqH6qIyaRHJdYE6l_57cAOYBoQ=s180-rw",
-    "large_image": "https://pbs.twimg.com/media/FE7cyTJWUAEwHO-?format=jpg&name=4096x4096",
-    "button": "Install",
-    "button_ru": "Установить",
-    "open_link": "https://play.google.com/store/apps/details?id=com.thegosa.galaxythemes"
-  }
+
 ]
