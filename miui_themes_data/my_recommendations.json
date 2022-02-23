@@ -68,6 +68,17 @@
     "open_link": "https://play.google.com/store/apps/details?id=com.thegosa.galaxythemes"
   },
   {
+    "title": "iPhone 13 Live Wallpaper",
+    "title_ru": "iPhone 13 Живые обои",
+    "body": "Get live wallpaper",
+    "body_ru": "Получите живые обои",
+    "small_image": "https://play-lh.googleusercontent.com/CUCQfTrTERA2cOvD8BPO1mf8vGc5qm8MvV2N9x5QUi2OnIQVLQPhgR0bIVaAEVlNzh0=s180-rw",
+    "large_image": "https://pbs.twimg.com/media/FMTuKN4XoAoeUhH?format=jpg&name=medium",
+    "button": "Install",
+    "button_ru": "Установить",
+    "open_link": "https://play.google.com/store/apps/details?id=com.thegosa.livephone"
+  },
+  {
     "title": "iOS 14 Style",
     "title_ru": "iOS 14 Стиль",
     "body": "iOS 14 in your phone",
