@@ -16,17 +16,15 @@
   },
     
   {
-    "name": "Hello winter",
-    "name_ru": "Привет зима",
+    "name": "Hello Spring",
+    "name_ru": "Привет Весна",
     "open_themes": true,
     "height_large_image": 350,
-    "text_on_image": "Winter Themes",
         "tag0": "snow",
         "tag1": "winter",
         "tag2": "holiday",
         "tag3": "ice",
-    "text_on_image_ru": "Зимние темы",
-    "large_image": "https://images.wallpaperscraft.com/image/single/lamps_snow_winter_evening_57366_1280x720.jpg"
+    "large_image": "https://img.freepik.com/free-vector/hello-spring-with-flowers-leaves_147887-69.jpg?w=1800"
   },
   {
     "subject": "Get more contents:",
