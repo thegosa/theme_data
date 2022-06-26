@@ -2,29 +2,29 @@
     {
     "subject": "Most popular:",
     "subject_ru": "Самые популярные:",
-    "name": "Spring flowers",
-    "name_ru": "Весенние цветы",
-    "height_large_image": 350,
+    "name": "Green spiral",
+    "name_ru": "Зеленая спираль",
+    "height_large_image": 200,
     "open_wallpapers": true,
-        "text_on_image": "Spring flowers",
-        "text_on_image_ru": "Весенние цветы",
+        "text_on_image": "Green spiral",
+        "text_on_image_ru": "Зеленая спираль",
         "tag0": "winter",
         "tag1": "snow",
         "tag2": "holiday",
         "tag3": "ice",
-    "large_image": "https://img.freepik.com/free-vector/realistic-blurred-spring-background_52683-57043.jpg?t=st=1648325511~exp=1648326111~hmac=c531925073b5b1ebe01ac34809b4cab4325ac6e0653ea9ac77c3b05438d4b3ca&w=1800"
+    "large_image": "https://images.wallpaperscraft.ru/image/single/fraktal_spirali_abstraktsiia_312366_1280x720.jpg"
   },
     
   {
-    "name": "Hello Spring",
-    "name_ru": "Привет Весна",
+    "name": "Summer is here",
+    "name_ru": "Лето здесь",
     "open_themes": true,
-    "height_large_image": 350,
+    "height_large_image": 250,
         "tag0": "snow",
         "tag1": "winter",
         "tag2": "holiday",
         "tag3": "ice",
-    "large_image": "https://img.freepik.com/free-vector/hello-spring-with-flowers-leaves_147887-69.jpg?w=1800"
+    "large_image": "https://img.freepik.com/free-vector/gradient-summer-background-with-flowers-leaves_23-2149419979.jpg?t=st=1656284219~exp=1656284819~hmac=dfa48d50931850788d80be9fa65241af3cc69678689da26e98b02dd9892af82f&w=1060"
   },
   {
     "subject": "Get more contents:",
