@@ -1,12 +1,12 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/thegosa/temalaryng-suraty/master/hemishelik/flower_banner_background.jpg",
-        "name": "Flowers",
-        "name_ru": "Цветы",
-        "tag0": "flower",
-        "tag1": "rose",
-        "tag2": "leave",
-        "tag3": "bloom"
+        "image": "https://img.freepik.com/free-vector/summer-time-background-palm-tree-design_1314-262.jpg?t=st=1656627418~exp=1656628018~hmac=745ba4ad9c66de2e51849bba4075610ddb7117838c216a20f66e2493b42c8297&w=600",
+        "name": "Summer Time",
+        "name_ru": "Летнее время",
+        "tag0": "summer",
+        "tag1": "beach",
+        "tag2": "sea",
+        "tag3": "sun"
     },
     {
         "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/random_themes_banner.jpg",
