@@ -35,13 +35,13 @@
         "tag3": "night"
     },
     {
-        "image": "https://github.com/thegosa/temalaryng-suraty/raw/master/hemishelik/neon_themes.jpg",
-        "name": "Abstract & Neon",
-        "name_ru": "Абстракт & Неон",
-        "tag0": "abstract",
-        "tag1": "neon",
-        "tag2": "color",
-        "tag3": "tech",
+        "image": "https://img.freepik.com/free-vector/realistic-hello-summer-background_52683-37296.jpg?w=400",
+        "name": "Summer",
+        "name_ru": "Лето",
+        "tag0": "summer",
+        "tag1": "sun",
+        "tag2": "beach",
+        "tag3": "sea",
         "type_theme": true
     },
     {
