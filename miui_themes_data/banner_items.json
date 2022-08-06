@@ -1,5 +1,15 @@
 [
     {
+        "image": "https://img.freepik.com/free-vector/grunge-background-colorful-spots_23-2147607390.jpg",
+        "name": "Colorful Grunge",
+        "name_ru": "Красочный гранж",
+        "tag0": "red",
+        "tag1": "blue",
+        "tag2": "orange",
+        "tag3": "yellow",
+        "type_theme": true
+    },
+    {
         "image": "https://img.freepik.com/free-vector/summer-time-background-palm-tree-design_1314-262.jpg?t=st=1656627418~exp=1656628018~hmac=745ba4ad9c66de2e51849bba4075610ddb7117838c216a20f66e2493b42c8297&w=600",
         "name": "Summer Time",
         "name_ru": "Летнее время",
