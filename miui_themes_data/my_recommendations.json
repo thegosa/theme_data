@@ -1,3 +1,13 @@
 [
-   
+     {
+    "name": "Summer is here",
+    "name_ru": "Лето здесь",
+    "open_themes": true,
+    "height_large_image": 250,
+        "tag0": "snow",
+        "tag1": "winter",
+        "tag2": "holiday",
+        "tag3": "ice",
+    "large_image": "https://img.freepik.com/free-vector/gradient-summer-background-with-flowers-leaves_23-2149419979.jpg?t=st=1656284219~exp=1656284819~hmac=dfa48d50931850788d80be9fa65241af3cc69678689da26e98b02dd9892af82f&w=1060"
+  }
 ]
